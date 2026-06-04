@@ -2,3 +2,12 @@ mein 1.txt hoon.
 i am changed now.
 
 ui
+
+git add ()
+for all the files it is 
+git add .
+
+git commit -m "Make some title here"
+
+git status
+git log
