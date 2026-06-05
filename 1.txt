@@ -11,3 +11,6 @@ git commit -m "Make some title here"
 
 git status
 git log
+
+
+are balua ta kuire janiparunu kn heichi eithe
